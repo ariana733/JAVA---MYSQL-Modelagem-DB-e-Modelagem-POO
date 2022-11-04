@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T00:23:28.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="537aKkEmwdRjuNVPw5B3" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T01:25:07.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4wns_8d4hSbZ8Jw_IRVQ" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="410" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LMSd8uTH7AQYFOmFK5gn-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;criam&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;cria&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LMSd8uTH7AQYFOmFK5gn-3" value="" style="endArrow=none;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1" target="LMSd8uTH7AQYFOmFK5gn-2">
@@ -28,7 +28,7 @@
             <mxPoint x="490" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LMSd8uTH7AQYFOmFK5gn-4" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Expõem&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-4" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Expõe&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="510" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LMSd8uTH7AQYFOmFK5gn-5" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=none;startArrow=ERmany;endFill=1;startFill=0;" edge="1" parent="1" target="LMSd8uTH7AQYFOmFK5gn-4">
@@ -43,13 +43,13 @@
         <mxCell id="LMSd8uTH7AQYFOmFK5gn-10" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;N&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LMSd8uTH7AQYFOmFK5gn-12" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Artistas&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMSd8uTH7AQYFOmFK5gn-13" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Obras de Arte&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-13" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Obras de Arte&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMSd8uTH7AQYFOmFK5gn-17" value="&lt;span style=&quot;font-size: 12px; font-weight: 700;&quot;&gt;Galerias&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-17" value="&lt;span style=&quot;font-size: 12px; font-weight: 700;&quot;&gt;Galeria&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMSd8uTH7AQYFOmFK5gn-23" value="&lt;b&gt;N:1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="LMSd8uTH7AQYFOmFK5gn-25" value="&lt;b&gt;ER Museu de Arte&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LMSd8uTH7AQYFOmFK5gn-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Artista&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="145" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
